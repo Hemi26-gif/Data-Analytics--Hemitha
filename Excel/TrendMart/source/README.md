@@ -2,8 +2,6 @@
 
 ## 📊 Project Overview
 
-![TrendMart Sales Dashboard](dashboard/Trendmart_Dashboard.png)
-
 
 
 **TrendMart Fashion Enterprise – Sales & Business Analytics Dashboard** is an Excel-based data analytics project designed to analyze retail fashion sales, customers, products, stores, employees, suppliers, and data quality.
@@ -148,12 +146,3 @@ TrendMart-Fashion-Enterprise-Analytics/
 * Data Quality Management
 * Business Insight Generation
 
-## 👨‍💻 Author
-
-**Abdul Kathar M A**
-
-**Data Analyst | Data Analytics Enthusiast**
-
----
-
-⭐ **TrendMart Fashion Enterprise Dashboard** transforms retail transaction data into meaningful business insights using Excel-based data analytics and visualization.
