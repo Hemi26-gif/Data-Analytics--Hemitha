@@ -1,3 +1,4 @@
+<img width="1042" height="430" alt="Screenshot 2026-10-21 134748" src="https://github.com/user-attachments/assets/288c65dd-18e0-4613-a2a5-dcdb4e7748fe" />
 # TrendMart Fashion Enterprise – Excel Dashboard
 
 ## 📊 Project Overview
