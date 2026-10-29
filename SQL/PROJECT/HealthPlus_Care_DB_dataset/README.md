@@ -1,4 +1,5 @@
 # HealthPlus Care Database
+<img width="961" height="602" alt="healthplus_care_Schema_Img" src="https://github.com/user-attachments/assets/9b01552a-d10b-4cdd-8231-9a45762e0f18" />
 
 ## Project Overview
 
