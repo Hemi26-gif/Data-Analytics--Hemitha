@@ -1,6 +1,7 @@
 
 
-<img width="1445" height="758" alt="Freshmart_sales_Dashboard_img" src="https://github.com/user-attachments/assets/b92a699c-8f4b-4413-b4c4-8ffe260ac30e" />
+<img width="978" height="529" alt="Screenshot 2026-10-29 140022" src="https://github.com/user-attachments/assets/70280a7a-4997-4d18-9584-74b39249f5a2" />
+
 # FreshMart Business Performance Dashboard 📊
 
 ## 📌 Project Overview
