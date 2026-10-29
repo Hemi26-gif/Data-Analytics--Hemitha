@@ -1,3 +1,4 @@
+<img width="958" height="603" alt="Hospital_Analytics_Schema" src="https://github.com/user-attachments/assets/fc1111c7-49d1-44f5-9978-4bc36ca4b97c" />
 # Hospital Analytics Database
 
 ## Project Overview
