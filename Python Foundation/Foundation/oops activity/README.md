@@ -1,3 +1,5 @@
+<img width="479" height="365" alt="Output 9" src="https://github.com/user-attachments/assets/bce3a6ef-424d-4f28-96e7-248e40fc0ee1" />
+
 # Nova University – Student Management Module
 
 ## Purpose
