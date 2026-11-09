@@ -1,4 +1,6 @@
 <img width="479" height="365" alt="Output 9" src="https://github.com/user-attachments/assets/bce3a6ef-424d-4f28-96e7-248e40fc0ee1" />
+<img width="543" height="251" alt="Output 7" src="https://github.com/user-attachments/assets/097920f4-08a9-47aa-840f-f7a2c00e02a0" />
+
 
 # Nova University – Student Management Module
 
