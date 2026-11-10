@@ -221,6 +221,3 @@ B.E. Computer Science and Engineering | 2026
 
 **Areas of Interest:** Data Analytics | Business Intelligence | Machine Learning
 
----
-
-⭐ If you find this project useful, feel free to explore the repository and share your feedback.
