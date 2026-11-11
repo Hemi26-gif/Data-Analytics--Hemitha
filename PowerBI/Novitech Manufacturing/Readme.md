@@ -1,8 +1,8 @@
-**Novitech Manufacturing Analytics | Power BI Project**
+**Novatech Manufacturing Analytics | Power BI Project**
 <img width="775" height="438" alt="01_EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/a8c91c90-80c9-4b53-bf48-05687b1e7474" />
 
 **Project Overview**
-Novitech Manufacturing Analytics is an end-to-end Business Intelligence
+Novatech Manufacturing Analytics is an end-to-end Business Intelligence
 project developed using Microsoft Power BI. It brings together
 manufacturing, quality, operational, finance, procurement, and
 supply-chain analysis to help management understand operational
@@ -213,14 +213,14 @@ Expected Deliverables
 - Prioritized management recommendations
 - Documentation of KPI definitions, assumptions, and limitations
 Conclusion
-Novitech Manufacturing Analytics demonstrates how Business Intelligence
+Novatech Manufacturing Analytics demonstrates how Business Intelligence
 can bring manufacturing and procurement information into a centralized
 analytical solution. By examining production, quality, downtime, energy,
 product cost, procurement, supplier performance, and material
 dependencies together, the project supports management in identifying
 operational inefficiencies, understanding financial exposure, and
 investigating potential supply-chain risks.
-Project: Novitech Manufacturing Analytics
+Project: Novatech Manufacturing Analytics
 Industry: Manufacturing
 Domain: Manufacturing Analytics & Business Intelligence
 Platform: Microsoft Power BI
